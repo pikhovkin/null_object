@@ -273,7 +273,8 @@ if __name__ == '__main__':
     except StopIteration:
         pass
 
-    assert json.loads(json.dumps({'none': n.o.n.e()[0], 'yeah': 1}, default=json_dumper))['none'] is None
+    assert json.loads(json.dumps({'none': n.o.n.e()[0], 'yeah': 1},
+                                 default=json_dumper))['none'] is None
 
     null = pickle.loads(pickle.dumps(n))
     if isinstance(null, NullObject):
