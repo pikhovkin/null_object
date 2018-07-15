@@ -1,7 +1,7 @@
-[![Travis](https://img.shields.io/travis/pikhovkin/null_object.svg)](https://travis-ci.org/pikhovkin/null_object)
+[![CircleCI](https://img.shields.io/circleci/project/github/pikhovkin/null_object.svg)](https://circleci.com/gh/pikhovkin/null_object)
 [![PyPI](https://img.shields.io/pypi/v/null-object.svg)](https://pypi.org/project/null-object/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/null-object.svg)
-[![PyPI - License](https://img.shields.io/pypi/l/null_object.svg)](./LICENSE)
+[![PyPI - License](https://img.shields.io/pypi/l/null-object.svg)](./LICENSE)
 
 # null-object
 
